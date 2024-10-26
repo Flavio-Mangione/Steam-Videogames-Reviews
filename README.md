@@ -1,6 +1,6 @@
 # Steam Reviews 2021 Dataset
 
-Welcome to the **Steam Reviews 2021 Dataset** repository. This dataset provides a comprehensive look at user reviews for games on the Steam platform, compiled from Kaggle. It includes detailed information on user ratings, game playtime, recommendation metrics, and timestamps, making it a valuable resource for analyzing user engagement and game popularity.
+The Steam Reviews 2021 Dataset offers a deep dive into user reviews for games on the Steam platform, sourced from Kaggle. This dataset encompasses detailed insights into user ratings, gameplay time, recommendation indicators, and timestamps, making it an excellent resource for analyzing user engagement, game popularity, and sentiment trends across the gaming community.
 
 ![Top 10 Games by Sales](steam.png)
 
@@ -26,8 +26,6 @@ The dataset consists of the following primary fields:
 - **Author Details**:
   - **Last Played**: Date when the reviewer last played the game.
   - **Number of Reviews**: Total reviews authored by the user, indicating their engagement level on Steam.
-  
-These attributes provide a well-rounded view of each review and the level of user involvement with the platform.
 
 ## Potential Applications
 
