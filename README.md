@@ -63,7 +63,7 @@ This dataset is sourced from Kaggle and adheres to Kaggle's usage terms. Please 
 
 # Algorithm question
 
-![Algorithm]([[https://cdn.akamai.steamstatic.com/store/home/store_home_share.jpg](https://img.freepik.com/free-vector/digital-binary-code-algorithm-stream-matrix-background_1017-25328.jpg)](https://image-v2.cdn.app.senecalearning.com/2018-08/299fd687-0b03-4954-a77c-ecdb601d4f38/Security-Encryption-Code-Internet-Computer-,h_400,q_80,w_640.jpg))
+![Algorithm](https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2022/02/algorithm-formulation.jpg)
 
 ## Information about the Algorithm
 
