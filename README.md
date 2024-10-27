@@ -67,15 +67,15 @@ This dataset is sourced from Kaggle and adheres to Kaggle's usage terms. Please 
 
 ## Information about the Algorithm
 
-You are given two positive integers, \( n \) (where \( 1 \leq n \leq 10^9 \)) and \( k \) (where \( q \leq k \leq 100 \)). Your task is to express \( n \) as the sum of \( k \) positive integers, all having the same parity (i.e., all have the same remainder when divided by 2, meaning they are either all even or all odd). In other words, find \( a_1, a_2, \dots, a_k \), each \( a_i > 0 \), such that \( n = a_1 + a_2 + \dots + a_k \), and all \( a_i \) simultaneously are either even or odd. If it's impossible to represent \( n \) in this way, report that no such representation exists.
+You are given two positive integers, \( n \) (where 1 ≤ n ≤ 10^9) and and k (where q ≤ k ≤ 100).Your task is to express n as the sum of k positive integers, all having the same parity (i.e., all have the same remainder when divided by 2, meaning they are either all even or all odd). In other words, find a₁, a₂, ..., aₖ, each aᵢ > 0, such that n = a₁ + a₂ + ... + aₖ, and all aᵢ simultaneously are either even or odd. If it's impossible to represent n in this way, report that no such representation exists.
 
 ### Input
 
-In the first input line, you will receive a number \( t \) (where \( 1 \leq t \leq 100 \)), representing the number of test cases. The following \( t \) lines will contain two values, \( n \) and \( k \), corresponding to each test case.
+In the first input line, you will receive a number t (where 1 ≤ t ≤ 100), representing the number of test cases. The following t lines will contain two values, n and k, corresponding to each test case.
 
 ### Output
 
-For each test case, if it is possible to represent \( n \) as the sum of \( k \) positive integers, all of the same parity (either all even or all odd), print `YES` and provide the corresponding values of \( a_i \) in the next line. If there are multiple valid solutions, you can print any of them. If such a representation is not possible for a given test case, print `NO`.
+For each test case, if it is possible to represent n as the sum of k positive integers, all of the same parity (either all even or all odd), print `YES` and provide the corresponding values of aᵢ in the next line. If there are multiple valid solutions, you can print any of them. If such a representation is not possible for a given test case, print `NO`.
 
 ### Examples
 
