@@ -1,6 +1,6 @@
 # Repository Content
 
-This repository contains a Jupyter notebook titled "Steam Reviews and Algorithm Analysis." The notebook is divided into two main sections:
+This repository contains a Jupyter notebook titled "Steam Reviews and Algorithm Analysis" The notebook is divided into two main sections:
 1. **Analysis of a dataset** containing review data from the Steam gaming platform in 2021 with analysis of the results obtained in markdown structure;
 2. **Algorithm complexity analysis** focused on evaluating the computational complexity of an algorithm.
 
