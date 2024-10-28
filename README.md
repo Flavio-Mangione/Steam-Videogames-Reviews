@@ -6,7 +6,7 @@ This repository contains a Jupyter notebook titled "Steam Reviews and Algorithm 
 
 # Steam Reviews 2021 Dataset
 
-The "Steam Reviews 2021" dataset, available on Kaggle, offers detailed insights into user reviews for games on the Steam platform. This dataset includes information on user ratings, gameplay time, recommendation indicators, and timestamps, making it an excellent resource for analyzing user engagement, game popularity, and sentiment trends within the gaming community.
+The "Steam Reviews 2021" dataset, available on ![Kaggle](https://www.kaggle.com/datasets/najzeko/steam-reviews-2021), offers detailed insights into user reviews for games on the Steam platform. This dataset includes information on user ratings, gameplay time, recommendation indicators, and timestamps, making it an excellent resource for analyzing user engagement, game popularity, and sentiment trends within the gaming community.
 
 ![Top 10 Games by Sales](https://cdn.akamai.steamstatic.com/store/home/store_home_share.jpg)
 
