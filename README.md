@@ -14,6 +14,10 @@ The "Steam Reviews 2021" dataset, available on [Kaggle](https://www.kaggle.com/d
 
 This dataset focuses on reviews posted by Steam users in 2021. Each entry provides data on user preferences, game engagement, and ratings. It is particularly valuable for researchers, data scientists, and game developers interested in exploring user behavior patterns, identifying trends in gaming popularity, and assessing sentiment.
 
+## <span style="color:red;">⚠️ Warning</span>
+
+<span style="color:red;">**The following dataset is 3 Gigabytes in size and requires at least 24 Gigabytes of RAM for complete reading.** If your computer does not meet these specifications, consider using a virtual machine with adequate computational power to handle the dataset efficiently.</span>
+
 ## Key Attributes of the Dataset
 
 - **Review details**: Data on each review, including creation and update timestamps, user recommendations, and text snippets where available.
