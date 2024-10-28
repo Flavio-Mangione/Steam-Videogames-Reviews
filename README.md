@@ -44,7 +44,7 @@ The dataset consists of the following primary fields:
 - **Timestamp created**: The date and time when the review was initially created.
 - **Timestamp updated**: The most recent date and time when the review was updated.
 - **Game title (`app_name`)**: Name of the game to which the review pertains.
-- **Recommended**: Binary indicator (`1` = Recommended, `0` = Not Recommended) representing whether the user endorses the game.
+- **Recommended**: Binary indicator (`True` = Recommended, `False` = Not Recommended) representing whether the user endorses the game.
 - **Playtime forever**: Total playtime in minutes that the user has logged for the game at the time of the review.
 - **Author details**:
   - **Last played**: Date when the reviewer last played the game.
