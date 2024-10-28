@@ -29,7 +29,8 @@ This dataset focuses on reviews posted by Steam users in 2021. Each entry provid
 - `numpy`
 - `matplotlib`
 - `seaborn`
-
+- `nltk`
+- `swifter`
 You can install all required libraries by running:
 ```bash
 pip install -r requirements.txt
