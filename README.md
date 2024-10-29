@@ -73,7 +73,7 @@ This dataset is sourced from Kaggle and adheres to Kaggle's usage terms. Please 
 
 ## Information about the Algorithm
 
-You are given two positive integers, \( n \) (where 1 ≤ n ≤ 10^9) and and k (where q ≤ k ≤ 100).Your task is to express n as the sum of k positive integers, all having the same parity (i.e., all have the same remainder when divided by 2, meaning they are either all even or all odd). In other words, find a₁, a₂, ..., aₖ, each aᵢ > 0, such that n = a₁ + a₂ + ... + aₖ, and all aᵢ simultaneously are either even or odd. If it's impossible to represent n in this way, report that no such representation exists.
+You are given two positive integers, \( n \) (where 1 ≤ n ≤ 10^9) and k (where q ≤ k ≤ 100).Your task is to express n as the sum of k positive integers, all having the same parity (i.e., all have the same remainder when divided by 2, meaning they are either all even or all odd). In other words, find a₁, a₂, ..., aₖ, each aᵢ > 0, such that n = a₁ + a₂ + ... + aₖ, and all aᵢ simultaneously are either even or odd. If it's impossible to represent n in this way, report that no such representation exists.
 
 ### Input
 
