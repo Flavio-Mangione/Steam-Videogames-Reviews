@@ -16,7 +16,7 @@ This dataset focuses on reviews posted by Steam users in 2021. Each entry provid
 
 ## ⚠️ Warning 
 
-**The following dataset is 3 Gigabytes in size and requires at least 24 Gigabytes of RAM for complete reading.** If your computer does not meet these specifications, consider using a virtual machine with adequate computational power to handle the dataset efficiently.
+**The following dataset is 7.6 Gigabytes in size and requires at least 24 Gigabytes of RAM for complete reading.** If your computer does not meet these specifications, consider using a virtual machine with adequate computational power to handle the dataset efficiently.
 
 ## Key Attributes of the Dataset
 
