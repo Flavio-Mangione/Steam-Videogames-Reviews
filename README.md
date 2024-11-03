@@ -33,6 +33,9 @@ This dataset focuses on reviews posted by Steam users in 2021. Each entry provid
 - `numpy`
 - `matplotlib`
 - `seaborn`
+- `datetime`
+- `scipy`
+- `plotly`
 - `nltk`
 - `swifter`
 
