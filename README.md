@@ -86,7 +86,6 @@ For each test case, if it is possible to represent n as the sum of k positive in
 **Input**
 
 ```text
-8
 10 3
 100 4
 8 7
